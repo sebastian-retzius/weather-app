@@ -1,0 +1,12 @@
+.sidebar {
+    grid-column-start: 1;
+    grid-column-end: span 1;
+    grid-row-start: 1;
+    grid-row-end: span 1;
+    background-color: var(--secondary);
+    border-right: 1px solid var(--main);
+    display: flex;
+    flex-direction: column;
+    box-shadow: 4px 0 8px -3px #010101;
+    padding: 10px;
+}

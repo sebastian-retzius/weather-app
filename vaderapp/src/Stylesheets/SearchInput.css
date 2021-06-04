@@ -1,0 +1,22 @@
+.search-form{
+    width: 80%;
+}
+
+.search-form i {
+    position: absolute;
+    color: var(--green);
+    font-size: large;
+}
+
+.icon {
+    padding: 13px;
+}
+  
+
+.search-field{
+    width: 100%;
+    height: 50px;
+    font-family: 'Nunito', sans-serif;
+    font-size: larger;
+    text-align: center;
+}
